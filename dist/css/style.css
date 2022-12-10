@@ -1,4 +1,20 @@
-body {
-  background: green;
-  color: #fff;
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.unordered {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1%;
+}
+
+.listItem {
+  border: 1px solid red;
+  padding: 4px;
+  border-radius: 16px;
+  width: 21%;
+  overflow: auto;
+  margin: 2px;
 }/*# sourceMappingURL=style.css.map */
