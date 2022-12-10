@@ -6,4 +6,11 @@
 
 body {
   width: 100%;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  margin: 5% 15%;
 }/*# sourceMappingURL=style.css.map */
